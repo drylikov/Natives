@@ -33,9 +33,6 @@ lengths.
 Don't use unless you know what you're doing, or at least, are ok with
 the risks.  Don't say I didn't warn you.
 
-Eternally Yours in OSS,  
-Isaac Z. Schlueter
-
 ## USAGE
 
 ```javascript
